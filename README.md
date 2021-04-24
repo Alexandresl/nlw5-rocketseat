@@ -11,3 +11,6 @@
 * Comando para instalar o SASS: `yarn add sass`
 
 * Comando para instalar biblioteca para datas: `yarn add date-fns`
+
+* Instalando o JSON Server: `yarn add json-server -D`
+* Para rodar o Json sever (no package.json): "server": "json-server server.json -W -d 750 -p 3333"
